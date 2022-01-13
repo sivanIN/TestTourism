@@ -1,0 +1,61 @@
+[
+    {
+        "id":"001",
+        "Name":"Rahul",
+        "Gender":"Male",
+        "Salary":"4.5 LPA",
+        "Department":"MSTechnology",
+        "Job_Role":"Developer",
+        "Experince":"1 year"
+    
+    }
+    ,{
+        "id":"002",
+        "Name":"Eldho",
+        "Gender":"Male",
+        "Salary":"3.5 LPA",
+        "Department":"Sharepoint",
+        "Job_Role":"Developer",
+        "Experince":"1 year"
+    
+    },
+    {
+        "id":"003",
+        "Name":"Ramya",
+        "Gender":"Female",
+        "Salary":"3.5 LPA",
+        "Department":"Powerapps",
+        "Job_Role":"Developer",
+        "Experince":"1 year"
+    
+    },
+    {
+        "id":"004",
+        "Name":"Adarsh",
+        "Gender":"Male",
+        "Salary":"3.5 LPA",
+        "Department":"PowerAutomate",
+        "Job_Role":"Developer",
+        "Experince":"1 year"
+    
+    },{
+        "id":"005",
+        "Name":"Lakmesh",
+        "Gender":"Male",
+        "Salary":"3.5 LPA",
+        "Department":"Power bi",
+        "Job_Role":"Developer",
+        "Experince":"1 year"
+    
+    },{
+        "id":"006",
+        "Name":"Parvathy",
+        "Gender":"Female",
+        "Salary":"3.5 LPA",
+        "Department":"Azure",
+        "Job_Role":"Developer",
+        "Experince":"1 year"
+    
+    }
+    
+    ]

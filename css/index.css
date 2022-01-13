@@ -1,0 +1,51 @@
+body{
+    background-color:grey;
+  }
+  
+  table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 780px;
+      margin-top: 200px;
+      margin-left: 340px;
+      box-shadow:  rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    }
+    
+    td, th {
+      border: 1px solid black;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    tr {
+      background-color: white;
+    }
+
+    .card{
+        float: right;
+        padding: 10px;
+        margin-left: 105px;
+        text-align: center;
+        margin-right: 105px;
+        margin-bottom: 20px;
+
+    }
+
+    .nav{
+        
+        margin-left: 620px;
+        width: 420px;
+        padding-right: 50px;
+     
+        
+    }
+
+    .buttonClass
+    {
+        color: blue;
+     
+        
+        /* width: 100px; */
+      
+        margin-left: 10px;
+    }
